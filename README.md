@@ -23,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mayforhern&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayforhern&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mayforhern&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 ##  Socials:
