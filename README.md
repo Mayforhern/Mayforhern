@@ -57,3 +57,35 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayforhern&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
+
+
+## 🌐 Let’s Build the Future Together  
+<p align="center">
+  I’m always up for collaborating on innovative projects or exploring new ideas!<br>
+  Got a wild concept involving web tech, AI, or automation? Let’s make it happen.
+</p>
+
+<table align="center" width="80%">
+  <tr>
+    <th>Interested In</th>
+    <th>How I Can Help</th>
+  </tr>
+  <tr>
+    <td><b>AI-Driven Apps</b></td>
+    <td>Building intelligent bots or tools with TensorFlow & Python.</td>
+  </tr>
+  <tr>
+    <td><b>Web Solutions</b></td>
+    <td>Crafting responsive, modern sites with React or Next.js.</td>
+  </tr>
+  <tr>
+    <td><b>Automation Magic</b></td>
+    <td>Writing scripts to save time—think Bash or Python.</td>
+  </tr>
+</table>
+
+> *Drop me a message on [X](https://x.com/dindoire) or [Instagram](https://www.instagram.com/010011.100001.01111001/)—let’s create something epic!*
+
+<div align="center">
+🌟 
+</div>
