@@ -1,24 +1,66 @@
-<p align="center">
+<div align="center">
   <img src="web.png" alt="Banner" width="100%">
-</p>
+</div>
 
-<h1 align="center">About Me:</h1>
-<p align="center">Coding websites & Telegram bots. Learner by day, creator by night.</p>
-<p align="center">
-<img src="https://github.com/Mayforhern/Mayforhern/assets/144929530/a29dbf64-dcb2-4258-bc2c-c9dd9dfc82e8" alt="Profile Image" width="200" height="200">
-
-# Done:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-
-# GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayforhern&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayforhern&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayforhern&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left" width="70%">
+        <h1>👋 Hi, I'm May</h1>
+        <h3>Web Developer | Telegram Bot Developer</h3>
+        <p><i>Learner by day, creator by night</i></p>
+        <p>
+          Passionate about web development, AI, and automation.<br>
+          I specialize in creating interactive applications and Telegram bots that make life easier.
+        </p>
+      </td>
+      <td align="right" width="30%">
+        <img src="https://github.com/Mayforhern/Mayforhern/assets/144929530/a29dbf64-dcb2-4258-bc2c-c9dd9dfc82e8"
+             alt="Profile Image" width="160" height="160" 
+             style="border-radius: 50%; border: 3px solid #3498db;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayforhern&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oen.py) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dindoire)
+## 🔗 Connect With Me  
+<p align="center">
+  
+  <a href="https://stackoverflow.com/users/22599408" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40">
+  </a>
+  <a href="https://www.youtube.com/@serujima" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40">
+  </a>
+  <a href="https://www.instagram.com/010011.100001.01111001/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/dindoire" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,astro,angular,nodejs,express,tailwind,bootstrap,vite,webpack,php,laravel,python,django,flask,fastapi,tensorflow,pytorch,java,spring,mysql,postgresql,mongodb,sqlite,firebase,redis,graphql,prisma,solidity,c,cpp,bash,powershell,docker,nginx,linux,git,github,gitlab,heroku,vercel,cloudflare,gcp,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayforhern&theme=dark&hide_border=false" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayforhern&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
+
+---
+
+## 👀 Profile Views  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayforhern&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</div>
