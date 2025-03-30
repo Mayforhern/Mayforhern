@@ -57,10 +57,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayforhern&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
-
----
-
-## 👀 Profile Views  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayforhern&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</div>
